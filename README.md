@@ -1,6 +1,6 @@
 <div align="center">
 
-# Totalwally
+# Bhav
 
 ### Full-Stack Developer · AI Builder · Product Engineer
 
