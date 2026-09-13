@@ -1,6 +1,6 @@
 <div align="center">
 
-# MrZoic
+# Totalwally
 
 ### Full-Stack Developer · AI Builder · Product Engineer
 
