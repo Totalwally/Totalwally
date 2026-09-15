@@ -2,13 +2,13 @@
 
 # I'M Wally
 
-### Developer · Product Builder · Founder of GitZone
+### Developer · Product Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=Building+GitZone;Developer+%26+Product+Builder;Software+%26+Community;Turning+Ideas+Into+Products;Building+For+Developers" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=Building+Software;Creating+Products;Learning+Through+Building;Designing+Systems;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 
 <br>
 
-<img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JwbzlrejUyZmx4cW92NHU2MmpvaDE5ZmlidzFreTRldTY0cDVibCZlcD12MV9pbnRlcm5hbF9pZl9yZWNlbnRfZ2lmX2J5X2lkJmN0PWc/DbXSzkKLzy96e3uukf/giphy.gif" alt="Coding Panda" />
+<img height="180" src="https://vsthemes.org/uploads/posts/2024-09/3311239120.gif" alt="Peace" />
 
 <br><br>
 
@@ -28,29 +28,21 @@
 
 ### About Me
 
-I’m a developer and product builder focused on creating software, building products, and bringing ideas from concept to execution.
+I’m a developer and product builder who enjoys turning ideas into real, usable software.
 
-I am currently building **GitZone**, a developer-focused platform and community designed around discovering developers, projects, and opportunities to connect and collaborate.
+My interests span software engineering, product development, modern web applications, developer tools, and emerging technologies. I enjoy working across the full process — from exploring an idea and designing the system to building, testing, and refining the final product.
 
-Alongside GitZone, I continue to work on software projects involving modern web technologies, developer tools, and emerging technologies.
+I value thoughtful engineering, clean interfaces, practical solutions, and continuous improvement.
 
 ---
 
 ### What I Build
 
-* **Software Products** — Designing and building complete products from concept through implementation and release.
-* **Web Applications** — Modern, responsive applications with an emphasis on performance, usability, and maintainable architecture.
-* **Developer Tools** — Tools and utilities designed to improve development workflows and productivity.
-* **AI Applications** — Practical applications and integrations built around modern AI capabilities.
-* **Developer Communities** — Building and managing communities around products for developers and builders.
-
----
-
-### Currently Building
-
-**GitZone**
-
-A developer-focused platform and community centered around discovering developers and projects, connecting with builders, and creating a better way to explore the developer ecosystem.
+* **Software Products** — Building complete products from early ideas to working applications.
+* **Web Applications** — Creating modern, responsive experiences with a focus on usability and performance.
+* **Developer Tools** — Designing utilities and systems that make development workflows more effective.
+* **AI Applications** — Exploring practical applications of modern AI and model-based systems.
+* **Product Experiences** — Combining engineering, design, and product thinking to create useful software.
 
 ---
 
@@ -71,6 +63,8 @@ A developer-focused platform and community centered around discovering developer
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   </td>
 </tr>
 <tr>
@@ -94,9 +88,17 @@ A developer-focused platform and community centered around discovering developer
 
 ---
 
-### Areas of Focus
+### Interests
 
-Software Engineering · Product Development · Developer Tools · AI Applications · Community Building
+Software Engineering · Product Development · Developer Tools · AI · Web Technologies · Systems Design
+
+---
+
+### Approach
+
+I like building by experimenting, learning quickly, and improving through iteration.
+
+I care about software that is useful, well-structured, and enjoyable to use — not simply software that works.
 
 ---
 
