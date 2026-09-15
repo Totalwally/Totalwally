@@ -4,21 +4,21 @@
 
 ### Developer · Product Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=Building+Software;Creating+Products;Learning+Through+Building;Designing+Systems;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=4000&pause=1400&color=7A7A7A&center=true&vCenter=true&width=600&height=40&lines=Building+with+curiosity;Creating+things+that+matter;Learning+through+building;Software+%26+product;One+idea+at+a+time" alt="Typing Animation" />
 
 <br>
 
-<img height="180" src="https://vsthemes.org/uploads/posts/2024-09/3311239120.gif" alt="Peace" />
+<img height="180" src="https://image.myanimelist.net/ui/ogNrt6xjoxcgp7z0v_1Zi_XHIJ6FLN5FmGEVrj51igSpKoOv1efz8SauBlqOf6GwyeXBZISGBrt2iXp0hRmtH4DTTezkHrojWsytYMrYdY0" alt="Peaceful artwork" />
 
 <br><br>
 
 <p align="center">
   <a href="https://github.com/MrZoic">
-    <img src="https://img.shields.io/badge/GitHub-MrZoic-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Wally-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/944936797752934480">
-    <img src="https://img.shields.io/badge/Discord-mrZoic-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Wally-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -28,21 +28,21 @@
 
 ### About Me
 
-I’m a developer and product builder who enjoys turning ideas into real, usable software.
+I’m a developer and product builder who enjoys turning ideas into useful software.
 
-My interests span software engineering, product development, modern web applications, developer tools, and emerging technologies. I enjoy working across the full process — from exploring an idea and designing the system to building, testing, and refining the final product.
+I like working across engineering, product development, and system design, with a particular interest in creating things from the ground up and improving them through iteration.
 
-I value thoughtful engineering, clean interfaces, practical solutions, and continuous improvement.
+For me, building is as much about understanding a problem as it is about writing the code.
 
 ---
 
 ### What I Build
 
-* **Software Products** — Building complete products from early ideas to working applications.
-* **Web Applications** — Creating modern, responsive experiences with a focus on usability and performance.
-* **Developer Tools** — Designing utilities and systems that make development workflows more effective.
-* **AI Applications** — Exploring practical applications of modern AI and model-based systems.
-* **Product Experiences** — Combining engineering, design, and product thinking to create useful software.
+* **Software Products** — Turning ideas into complete, usable applications.
+* **Web Applications** — Building modern interfaces with an emphasis on clarity, performance, and maintainability.
+* **Developer Tools** — Creating tools that make workflows simpler and more effective.
+* **AI Applications** — Exploring practical ways to use modern AI in software.
+* **Product Systems** — Thinking about how technology, users, and product decisions fit together.
 
 ---
 
@@ -63,8 +63,6 @@ I value thoughtful engineering, clean interfaces, practical solutions, and conti
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   </td>
 </tr>
 <tr>
@@ -88,17 +86,17 @@ I value thoughtful engineering, clean interfaces, practical solutions, and conti
 
 ---
 
-### Interests
+### Areas of Interest
 
-Software Engineering · Product Development · Developer Tools · AI · Web Technologies · Systems Design
+Software Engineering · Product Development · Developer Tools · Artificial Intelligence · Web Technologies · Systems Design
 
 ---
 
 ### Approach
 
-I like building by experimenting, learning quickly, and improving through iteration.
+I prefer to build thoughtfully, learn by doing, and improve through iteration.
 
-I care about software that is useful, well-structured, and enjoyable to use — not simply software that works.
+Good software does more than work. It should be clear, dependable, and pleasant to use.
 
 ---
 
@@ -106,10 +104,10 @@ I care about software that is useful, well-structured, and enjoyable to use — 
 
 <p align="left">
   <a href="https://github.com/MrZoic">
-    <img src="https://img.shields.io/badge/GitHub-@MrZoic-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Wally-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/944936797752934480">
-    <img src="https://img.shields.io/badge/Discord-mrZoic-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Wally-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
