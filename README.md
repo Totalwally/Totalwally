@@ -1,6 +1,14 @@
 <div align="center">
 <br>
+<div align="center">
 
+<img src="YOUR_DIRECT_IMAGE_URL_HERE" alt="totalwally banner" width="100%">
+
+<br><br>
+
+## **I'M Wally**
+
+### Developer · Product Builder
 <h2><strong>I'M Wally</strong></h2>
 
 ### Developer · Product Builder
