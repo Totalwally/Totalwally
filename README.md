@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Totalwally/Totalwally/main/assets/banner.png" alt="totalwally banner" width="100%">
-
-<br><br>
-
 # I'M Wally
 
 ### Developer · Product Builder
