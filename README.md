@@ -8,6 +8,10 @@
 
 <h3>Developer · Product Builder</h3>
 
+<img height="180" src="https://64.media.tumblr.com/7251ecb7528e22e96652bd837fd12b6a/d9c5be32c163a5e2-5a/s540x810/d4e3ebd2e21d7e784e31bcf6e693050d7ee13468.gifv" alt="Anime GIF">
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=4000&pause=1400&color=7A7A7A&center=true&vCenter=true&width=600&height=40&lines=Building+with+curiosity;Creating+things+that+matter;Learning+through+building;Software+%26+product;One+idea+at+a+time" alt="Typing Animation">
 
 <br><br>
