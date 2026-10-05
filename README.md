@@ -1,7 +1,7 @@
 <div align="center">
 
 <br>
-# I'M Wally
+### I'M Wally
 
 ### Developer · Product Builder
 
